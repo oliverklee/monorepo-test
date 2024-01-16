@@ -1,0 +1,17 @@
+{
+	"name": "oliverklee/monorepo-test",
+	"description": "Test for monorepo",
+	"license": "GPL-3.0-or-later",
+	"type": "project",
+	"require": {
+		"php": "^8.1",
+		"oliverklee/monorepo-subproject-1": "@dev",
+		"oliverklee/monorepo-subproject-2": "@dev"
+	},
+	"repositories": [
+		{
+			"type": "path",
+			"url": "subprojects/*"
+		}
+	]
+}

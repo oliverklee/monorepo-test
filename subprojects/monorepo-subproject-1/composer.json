@@ -1,0 +1,9 @@
+{
+	"name": "oliverklee/monorepo-subproject-1",
+	"description": "Test for monorepo",
+	"license": "GPL-3.0-or-later",
+	"type": "project",
+	"require": {
+		"php": "^8.1"
+	}
+}
