@@ -1,3 +1,3 @@
 # Subproject 1 for monorepo demo
 
-(demo)
+(demo …)
