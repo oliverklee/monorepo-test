@@ -39,7 +39,7 @@ jobs:
 
           # ↓ the user signed under the split commit
           user_name: "Oliver Klee (split bot)"
-          user_email: "splitbot@oliverklee.de"
+          user_email: "github@oliverklee.de"
 
       # with tag
       - if: "startsWith(github.ref, 'refs/tags/')"
